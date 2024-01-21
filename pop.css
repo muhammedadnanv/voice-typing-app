@@ -1,0 +1,12 @@
+body {
+    width: 300px;
+    min-height: 200px;
+    padding: 10px;
+}
+
+#output {
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    min-height: 200px;
+    padding: 10px;
+}

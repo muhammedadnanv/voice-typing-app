@@ -2,11 +2,14 @@ body {
     width: 300px;
     min-height: 200px;
     padding: 10px;
+    background-color: #ffd700; /* Golden background */
 }
 
 #output {
-    border: 1px solid #ced4da;
+    border: 1px solid #ff0000; /* Red border */
     border-radius: 5px;
     min-height: 200px;
     padding: 10px;
+    background-color: #ffd700; /* Golden background */
 }
+
